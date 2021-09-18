@@ -68,10 +68,10 @@
             padding-left: $navbar-padding-x;
             padding-right: $navbar-padding-x;
             font-size: $navbar-nav-link-font-size;
-
+            color: #5EFD0E;
             &.active {
                 position: relative;
-
+                color: #5EFD0E;
                 &:before {
                     content: '';
                     position: absolute;
