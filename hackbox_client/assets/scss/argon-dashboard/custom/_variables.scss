@@ -470,7 +470,7 @@ $table-dark-bg:               #12223A;
 $table-dark-accent-bg:        rgba($white, .05) !default;
 $table-dark-hover-bg:         rgba($white, .075) !default;
 $table-dark-border-color:     lighten(theme-color("default"), 7%) !default;
-$table-dark-color:            $body-bg !default;
+$table-dark-color:            #5EFD0E !default;
 
 $table-dark-head-bg:          lighten(theme-color("default"), 4%) !default;
 $table-dark-head-color:       lighten(theme-color("default"), 35%) !default;
