@@ -447,7 +447,7 @@ $icon-size-sm: 2rem !default;
 $table-cell-padding:          1rem !default;
 $table-cell-padding-sm:       .5rem !default;
 
-$table-bg:                    transparent !default;
+$table-bg:                    #12223A;
 $table-accent-bg:             rgba($black, .05) !default;
 $table-hover-bg:              $gray-100 !default;
 $table-active-bg:             $table-hover-bg !default;
@@ -466,7 +466,7 @@ $table-head-letter-spacing:   1px !default;
 
 $table-body-font-size:        .8125rem !default;
 
-$table-dark-bg:               theme-color("default") !default;
+$table-dark-bg:               #12223A;
 $table-dark-accent-bg:        rgba($white, .05) !default;
 $table-dark-hover-bg:         rgba($white, .075) !default;
 $table-dark-border-color:     lighten(theme-color("default"), 7%) !default;
@@ -997,7 +997,7 @@ $footer-padding-x:              0;
 
 
 $footer-link-font-size: .85rem !default;
-$footer-bg: theme-color("secondary") !default;
+$footer-bg: #12223A !default;
 $footer-color: $gray-600 !default;
 $footer-link-color: $gray-600 !default;
 $footer-link-hover-color: $gray-700 !default;

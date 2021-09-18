@@ -11,6 +11,7 @@
   background-color: $card-bg;
   background-clip: border-box;
   border: $card-border-width solid $card-border-color;
+  background-color: #12223A;
   @include border-radius($card-border-radius);
 
   > hr {
@@ -34,15 +35,18 @@
 .card-body {
   // Enable `flex-grow: 1` for decks and groups so that card blocks take up
   // as much space as possible, ensuring footers are aligned to the bottom.
+  background-color: #12223A;
   flex: 1 1 auto;
   padding: $card-spacer-x;
 }
 
 .card-title {
   margin-bottom: $card-spacer-y;
+  background-color: #12223A;
 }
 
 .card-subtitle {
+  background-color: #12223A;
   margin-top: -($card-spacer-y / 2);
   margin-bottom: 0;
 }
@@ -70,7 +74,7 @@
   margin-bottom: 0; // Removes the default margin-bottom of <hN>
   background-color: $card-cap-bg;
   border-bottom: $card-border-width solid $card-border-color;
-
+  background-color: #12223A;
   &:first-child {
     @include border-radius($card-inner-border-radius $card-inner-border-radius 0 0);
   }
@@ -86,7 +90,7 @@
   padding: $card-spacer-y $card-spacer-x;
   background-color: $card-cap-bg;
   border-top: $card-border-width solid $card-border-color;
-
+  background-color: #12223A;
   &:last-child {
     @include border-radius(0 0 $card-inner-border-radius $card-inner-border-radius);
   }

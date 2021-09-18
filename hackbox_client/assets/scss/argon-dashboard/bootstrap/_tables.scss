@@ -171,6 +171,7 @@
 
     &#{$infix} {
       @include media-breakpoint-down($breakpoint) {
+        background-color: #12223A;
         display: block;
         width: 100%;
         overflow-x: auto;
