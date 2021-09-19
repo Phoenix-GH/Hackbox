@@ -16,10 +16,10 @@ class StandardFooter extends React.Component {
                   © {new Date().getFullYear()}{" "}
                   <a
                     className="font-weight-bold ml-1"
-                    href="https://brycec.me"
+                    href="http://coderealsec.com/"
                     target="_blank"
                   >
-                    Bryce
+                    CodeRealSec
                   </a>
                 </div>
               </Col>

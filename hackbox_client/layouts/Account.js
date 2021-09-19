@@ -30,7 +30,7 @@ function Account(props) {
                     Hackbox is an open-source, container-based platform that makes it easy to launch vulnerable systems to test your hacking skill!
                   </h3>
                   <h3 className="text-lead text-white">
-                    Built by Bryce @ <a className="text-white" href="https://brycec.me">brycec.me</a> with ❤️.
+                    Built by CodeRealSec @ <a className="text-white" href="http://coderealsec.com/">coderealsec.com</a> with ❤️.
                   </h3>
                 </Col>
               </Row>
